@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVI</string>
+    <string name="ask_question">Ask Question</string>
+    <string name="get_answer">Get Answer</string>
+    <string name="show_greeting">SHOW GREETING</string>
+    <string name="hello">Hello</string>
+</resources>
